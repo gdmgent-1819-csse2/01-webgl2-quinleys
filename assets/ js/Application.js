@@ -2,6 +2,9 @@ import Tests from './Tests/Tests.js'
 import Vector2 from './Library/Math/Vector2.js'
 import Vector3 from './Library/Math/Vector3.js'
 import Vector4 from './Library/Math/Vector4.js'
+import Matrix2 from './Library/Math/Vector2.js'
+import Matrix3 from './Library/Math/Matrix3.js'
+import Matrix4 from './Library/Math/Matrix4.js'
 
 /** Class for the application. */
 export default class Application {
